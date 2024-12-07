@@ -28,7 +28,7 @@ A comprehensive system designed to enhance the efficiency, productivity, and sus
    - Real-time environmental data integration
 
 3. **Drying Process Optimization**
-   - Real-time moisture level monitoring
+   - Real-time moisture level monitoring in copra
    - Environmental condition tracking
    - Optimal drying time prediction
 
@@ -49,6 +49,7 @@ A comprehensive system designed to enhance the efficiency, productivity, and sus
 ### Hardware Components
 - ESP32 WiFi Module
 - Soil Moisture Sensors
+- Point Moisture Sensor
 - IoT devices for data collection
 
 ### Techniques
