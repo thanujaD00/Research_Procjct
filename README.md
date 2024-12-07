@@ -18,9 +18,9 @@ A comprehensive system designed to enhance the efficiency, productivity, and sus
 - Dr. Chandi Yalegama (External-Supervisor)
 
 ## Features
-1. **Copra Analysis and Grading System**
+1. **Copra Analysis and Grading System (Data set not included because of the large storage)**
    - Fungus detection in copra
-   - Automated quality grading
+   - Automated quality grading in copra
      
 2. **Smart Watering System**
    - Soil moisture monitoring
